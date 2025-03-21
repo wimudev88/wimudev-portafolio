@@ -1,0 +1,24 @@
+{
+    /* Archivos */
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 2500,
+    /* Apariencia */
+    "workbench.colorTheme": "Houston",
+    "workbench.iconTheme": "eyecons",
+    "workbench.sideBar.location": "right",
+    "workbench.activityBar.location": "top",
+    "window.zoomLevel": 0.5,
+    /* Editor */
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "line-thin",
+    "editor.cursorWidth": 4,
+    "editor.fontFamily": "FiraCode Nerd Font",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+    "editor.fontWeight": "400",
+    "editor.minimap.enabled": false,
+    /* Explorador */
+    "explorer.compactFolders": false,
+    "explorer.autoReveal": false,
+}

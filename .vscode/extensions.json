@@ -1,4 +1,13 @@
 {
-  "recommendations": ["astro-build.astro-vscode"],
+  "recommendations": [
+    "astro-build.houston",
+    "jerrygoyal.shortcut-menu-bar",
+    "aaron-bond.better-comments",
+    "alefragnani.project-manager",
+    "DavidAnson.vscode-markdownlint",
+    "bierner.markdown-preview-github-styles",
+    "imgildev.vscode-astro-pack",
+    "azat-io.eyecons"
+  ],
   "unwantedRecommendations": []
 }
